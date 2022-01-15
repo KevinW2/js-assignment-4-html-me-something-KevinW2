@@ -1,0 +1,36 @@
+.newBody{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+    margin-right: 10px;
+ }
+
+ #mainHeading{
+    color: red;
+ }
+
+ .funParagraph{
+    color:green;
+ }
+
+ div{
+     padding-top: 25px;
+     padding-bottom: 50px;
+     padding-left: 75px;
+     padding-right: 100px;
+ }
+
+ #secondaryHeadings{
+     color:royalblue;
+ }
+
+ #wuTang{
+     height: 400px;
+     width: 375px;
+     image-rendering: smooth;
+ }
+
+ #panthers{
+     height: 390px;
+     width: 400px;
+ }
